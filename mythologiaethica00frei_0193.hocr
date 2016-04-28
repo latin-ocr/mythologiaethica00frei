@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mythologiaethica00frei_0193.png"; bbox 0 0 2170 3026; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 141 1671 290">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 141 1671 290">
+     <span class='ocr_line' id='line_1_1' title="bbox 151 141 1671 290; baseline 0.014 -22"><span class='ocrx_word' id='word_1_1' title='bbox 151 184 428 270; x_wconf 73' lang='lat' dir='ltr'>Poenoe</span> <span class='ocrx_word' id='word_1_2' title='bbox 468 141 924 275; x_wconf 65' lang='lat' dir='ltr'>formidihe</span> <span class='ocrx_word' id='word_1_3' title='bbox 944 188 1376 282; x_wconf 77' lang='lat' dir='ltr'>concilia&#39;ta</span> <span class='ocrx_word' id='word_1_4' title='bbox 1388 197 1671 290; x_wconf 83' lang='grc' dir='ltr'><strong>νίκαις</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 68 386 1792 2151">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 68 386 1792 2151">
+     <span class='ocr_line' id='line_1_2' title="bbox 68 386 1792 2151; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 68 386 1792 2151; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 184 2155 1762 2481">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 184 2155 1762 2481">
+     <span class='ocr_line' id='line_1_3' title="bbox 184 2155 1260 2282; baseline 0.025 -55"><span class='ocrx_word' id='word_1_6' title='bbox 184 2156 419 2259; x_wconf 77' lang='lat' dir='ltr'><em>em‘mſs</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 430 2155 771 2264; x_wconf 66' lang='lat' dir='ltr'><em>coffiserint,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 806 2168 1260 2282; x_wconf 75' lang='lat' dir='ltr'><em>confringetur.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 680 2273 1761 2413; baseline 0.019 -58"><span class='ocrx_word' id='word_1_9' title='bbox 680 2273 902 2387; x_wconf 68' lang='lat' dir='ltr'><em>Ecclefl</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 920 2308 1102 2386; x_wconf 76' lang='lat'><em>13,.3,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1187 2349 1190 2355; x_wconf 95' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1753 2406 1761 2413; x_wconf 21' lang='lat' dir='ltr'>q</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1133 2405 1762 2481; baseline 0.032 -23"><span class='ocrx_word' id='word_1_13' title='bbox 1133 2413 1171 2460; x_wconf 79' lang='lat'><em>2·-</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1211 2455 1215 2459; x_wconf 87' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1304 2422 1328 2481; x_wconf 84' lang='lat'><em>3</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1544 2405 1648 2473; x_wconf 84' lang='lat' dir='ltr'><em>LE</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1662 2411 1762 2477; x_wconf 90' lang='lat'><em>0-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mythologiaethica00frei_0255.png"; bbox 0 0 2044 3048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 46 139 1854 1996">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 46 139 1854 1996">
+     <span class='ocr_line' id='line_1_1' title="bbox 46 139 1854 1996; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 46 139 1854 1996; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 89 2154 1750 2473">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 89 2154 1750 2473">
+     <span class='ocr_line' id='line_1_2' title="bbox 89 2154 1737 2287; baseline -0.005 -29"><span class='ocrx_word' id='word_1_2' title='bbox 89 2173 376 2260; x_wconf 75' lang='lat' dir='ltr'><em>Exultat</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 377 2167 628 2285; x_wconf 72' lang='lat' dir='ltr'><em>gaudio</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 630 2162 819 2287; x_wconf 61' lang='lat' dir='ltr'><em>path·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 829 2166 996 2285; x_wconf 68' lang='lat' dir='ltr'><em>iusti:</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1023 2154 1737 2284; x_wconf 62' lang='lat' dir='ltr'><em>quisapae&#39;mibmgenut&#39;t,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 190 2277 1750 2473; baseline -0.01 -103"><span class='ocrx_word' id='word_1_7' title='bbox 190 2283 508 2370; x_wconf 72' lang='lat' dir='ltr'><em>laabitur</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 522 2295 595 2367; x_wconf 77' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 626 2315 716 2370; x_wconf 81' lang='lat' dir='ltr'><em>co.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 863 2361 866 2363; x_wconf 86' lang='lat'>.</span> <span class='ocrx_word' id='word_1_11' title='bbox 951 2277 1381 2473; x_wconf 54' lang='lat' dir='ltr'><em>Prougb.?3,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1399 2303 1518 2382; x_wconf 84' lang='lat'><em>24.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1560 2379 1623 2449; x_wconf 65' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1636 2378 1750 2449; x_wconf 46' lang='lat'><em>81-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
